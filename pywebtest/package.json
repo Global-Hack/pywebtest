@@ -1,0 +1,17 @@
+{
+  "name": "pywebtest",
+  "version": "1.0.0",
+  "description": "pywebviewのテスト開発",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "global hack",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-honoka": "^4.4.0"
+  }
+}
